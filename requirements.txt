@@ -1,0 +1,14 @@
+torch
+torchvision 
+opencv-python-headless
+numpy
+scikit-learn
+scikit-image
+matplotlib
+ipython
+streamlit
+fastapi
+uvicorn
+Pillow
+
+ 
